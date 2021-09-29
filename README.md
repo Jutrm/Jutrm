@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jutrm
-- 👀 I’m interested in hacking,bug bounty
+- 👀 I’m interested in hacking,bug bounty,learning,iot
 - 🌱 I’m currently learning bsc cyber security
 - 📫 How to reach me
 
